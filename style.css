@@ -1,0 +1,15 @@
+
+.menu a{margin-left: 20px}
+
+.menu a:link{color: black}
+.menu a:visited{color: purple}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer {
+    display:flex;    
+    align-items:center;
+}
